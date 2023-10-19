@@ -1,5 +1,3 @@
-import Gallery from "./Welcome";
-
 export default function Main() {
   return (
     <main>
